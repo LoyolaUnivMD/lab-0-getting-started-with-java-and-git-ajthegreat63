@@ -5,7 +5,7 @@
 // Problem Statement:  Output programmers’ initial
 // Input: None; there is no user input in this program
 // Output:  The initials of the programmers in ASCII art form
-// Credits: N/A
+// Credits: https://patorjk.com/software/taag/#p=display&f=Graffiti&t=
 
 class HelloWorld {
     public static void main(String[] args) {
